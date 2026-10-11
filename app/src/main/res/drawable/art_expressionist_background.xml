@@ -1,0 +1,40 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="240dp"
+    android:height="100dp"
+    android:viewportWidth="240"
+    android:viewportHeight="100">
+
+    <!-- Canvas Ivory Foundation -->
+    <path
+        android:fillColor="#FBF8F3"
+        android:pathData="M0,0h240v100h-240z" />
+
+    <!-- Terracotta Organic Curve on Left -->
+    <path
+        android:fillColor="#E76F51"
+        android:pathData="M-10,0 C40,40 60,90 20,110 L-20,110 Z" />
+
+    <!-- Golden Sun Circle -->
+    <path
+        android:fillColor="#F4A261"
+        android:pathData="M95,25m-28,0a28,28 0,1 1,56 0a28,28 0,1 1,-56 0" />
+
+    <!-- Deep Mulberry / Violet Organic Wave on Right -->
+    <path
+        android:fillColor="#6A0572"
+        android:fillAlpha="0.85"
+        android:pathData="M140,110 C150,40 210,20 250,50 L250,110 Z" />
+
+    <!-- Mint Green Accent Blob -->
+    <path
+        android:fillColor="#2A9D8F"
+        android:fillAlpha="0.9"
+        android:pathData="M80,65 Q110,95 140,75 T170,95 L150,110 L80,110 Z" />
+
+    <!-- Fine Architectural Ink Squiggle -->
+    <path
+        android:strokeColor="#264653"
+        android:strokeWidth="1.8"
+        android:pathData="M120,15 Q140,30 160,15 T180,30" />
+
+</vector>

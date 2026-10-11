@@ -1,0 +1,33 @@
+# Built application files and binaries
+*.apk
+*.aab
+*.ap_
+*.dex
+
+# Gradle build folders and cache
+build/
+app/build/
+*/build/
+.gradle/
+
+# Secrets, private keys, and local properties (Explicitly ignored per user instruction)
+local.properties
+worker.js
+*.bak
+*.keystore
+*.jks
+release.keystore
+google-services.json
+app/google-services.json
+
+# IDE / Android Studio metadata
+.idea/
+*.iml
+.navigation/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# OS metadata
+.DS_Store
+Thumbs.db

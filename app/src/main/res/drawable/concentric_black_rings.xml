@@ -1,0 +1,19 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+
+    <!-- Outer Black Outline Ring -->
+    <path
+        android:strokeColor="#000000"
+        android:strokeWidth="2.2"
+        android:pathData="M24,24m-21.5,0a21.5,21.5 0,1 1,43 0a21.5,21.5 0,1 1,-43 0" />
+
+    <!-- Inner Black Outline Ring -->
+    <path
+        android:strokeColor="#000000"
+        android:strokeWidth="1.8"
+        android:pathData="M24,24m-13.5,0a13.5,13.5 0,1 1,27 0a13.5,13.5 0,1 1,-27 0" />
+
+</vector>
