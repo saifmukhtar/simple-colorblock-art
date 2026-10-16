@@ -12,7 +12,6 @@ app/build/
 
 # Secrets, private keys, and local properties (Explicitly ignored per user instruction)
 local.properties
-worker.js
 *.bak
 *.keystore
 *.jks
