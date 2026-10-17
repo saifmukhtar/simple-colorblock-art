@@ -7,6 +7,9 @@
 </p>
 
 ---
+## Acknowledgment
+
+**Simple Colorblock Art** is designed to built quick so we doesnt able to follow best practice please dont blindly trust on codebase. Later, I will audit and makes  this secure with best practice.
 
 ## 🎨 Overview & "Ghost App" Architecture
 
